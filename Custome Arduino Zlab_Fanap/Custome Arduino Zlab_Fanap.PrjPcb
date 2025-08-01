@@ -101,7 +101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NOQBCUHV
 
 [Document4]
-DocumentPath=Display & IO.SchDoc
+DocumentPath=Display_IO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
