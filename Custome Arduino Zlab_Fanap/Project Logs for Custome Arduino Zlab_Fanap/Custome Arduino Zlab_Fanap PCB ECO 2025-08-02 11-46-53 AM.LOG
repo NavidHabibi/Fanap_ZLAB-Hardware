@@ -1,0 +1,66 @@
+Added Component: Designator=SW2(SWPBS_SPST_6X3X5)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "ALPS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "SKQMBBE010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "PARAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "PRICE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "PUSHBUTTON"; VariantName = "[No Variations]"
+Added Component: Designator=SW3(SWPBS_SPST_6X3X5)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "ALPS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "SKQMBBE010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "PARAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "PRICE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "PUSHBUTTON"; VariantName = "[No Variations]"
+Added Component: Designator=SW4(SWPBS_SPST_6X3X5)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "ALPS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "SKQMBBE010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "PARAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "PRICE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "PUSHBUTTON"; VariantName = "[No Variations]"
+Added Component: Designator=SW5(SWPBS_SPST_6X3X5)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "ALPS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "SKQMBBE010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "PARAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "PRICE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "PUSHBUTTON"; VariantName = "[No Variations]"
+Added Component: Designator=SW6(SWPBS_SPST_6X3X5)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "ALPS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "SKQMBBE010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "PARAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "PRICE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "PUSHBUTTON"; VariantName = "[No Variations]"
+Added Component: Designator=SW7(SWPBS_SPST_6X3X5)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "ALPS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "SKQMBBE010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "PARAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "PRICE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "PUSHBUTTON"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=SW2-1
+Added Pin To Net: NetName=Reset Pin=SW2-2
+Added Pin To Net: NetName=GND Pin=SW3-1
+Added Pin To Net: NetName=D2 Pin=SW3-2
+Added Pin To Net: NetName=GND Pin=SW4-1
+Added Pin To Net: NetName=D3 Pin=SW4-2
+Added Pin To Net: NetName=GND Pin=SW5-1
+Added Pin To Net: NetName=D4 Pin=SW5-2
+Added Pin To Net: NetName=GND Pin=SW6-1
+Added Pin To Net: NetName=D5 Pin=SW6-2
+Added Pin To Net: NetName=GND Pin=SW7-1
+Added Pin To Net: NetName=D6 Pin=SW7-2
+Added Member To Class: ClassName=Main Sheet Member=Component SW2 PUSHBUTTON
+Added Member To Class: ClassName=Main Sheet Member=Component SW3 PUSHBUTTON
+Added Member To Class: ClassName=Main Sheet Member=Component SW4 PUSHBUTTON
+Added Member To Class: ClassName=Main Sheet Member=Component SW5 PUSHBUTTON
+Added Member To Class: ClassName=Main Sheet Member=Component SW6 PUSHBUTTON
+Added Member To Class: ClassName=Main Sheet Member=Component SW7 PUSHBUTTON
